@@ -1,7 +1,9 @@
 # OnlyMotors
 Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de veículos online.
+</br>
+</br>
 
-#🎓Team  
+# 🎓Team  
 
 **Scrum Master/Developer:** Guilherme Oliveira Pontes Alvarenga [LinkedIn](https://www.linkedin.com/in/guilherme-oliveira-14a9b8175/)
 
@@ -18,40 +20,53 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
 **Developer:** Mateus Prestes Teodoro Alves [LinkedIn](https://www.linkedin.com/in/mateus-prestes-11569118a/)
 
 **Developer:** Davi Silva Martins das Neves [LinkedIn](https://www.linkedin.com/in/davi-neves-a50573201/)
-
-
-<hr>
+</br>
+</br>
 
 # 📃Sprints
+
 | Sprint                                                              | Data de Entrega |
 | ------------------------------------------------------------------- | --------------- |
 | Kick-off do Projeto | 22 de agosto de 2021     |
-| [Sprint 1]() | 19 de setembro de 2021     |
+| 👉**Sprint 1** | 19 de setembro de 2021     |
 | Sprint 2 | 10 de outubro de 2021     |
 | Sprint 3 | 07 de novembro de 2021     |
 | Sprint 4 | 28 de novembro de 2021 |
 | Apresentação Final | 05 de dezembro de 2021 |
 | Feira de soluções | 16 de dezembro de 2021 |
+</br>
 
+# 📦 Repositórios integrantes do projeto
 
-<hr>
+| Repositório                                                              | Descrição                          |
+| ------------------------------------------------------------------------ | ---------------------------------- |
+| [onlymotors-docs](https://github.com/onlymotors/onlymotors-docs)    | Apresentação e documentação        |
+| [onlymotors-front-web](https://github.com/onlymotors/onlymotors-front-web)    | Aplicação Front-End Web            |
+| [onlymotors-front-mobile](https://github.com/onlymotors/onlymotors-front-mobile) | Aplicação Front-End Mobile Android |
+| [onlymotors-back](https://github.com/onlymotors/onlymotors-back)         | Aplicação Back-End                 |
+<br>
 
-<hr>
+# 🧰 Tecnologias
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Expo%20Go-black?style=for-the-badge&logo=expo&logoColor=white"> 
+</br>
+<img src="https://img.shields.io/badge/MongoDB-8bbf3d?style=for-the-badge&logo=MongoDB&logoColor=white  "> <img src="https://img.shields.io/badge/Node.js-8bbf3d?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/swagger-8bbf3d?style=for-the-badge&logo=swagger&logoColor=white"> 
+</br>
+</br>
 
 # 📆Entregas - Funcionalidades
 
- 
 | Sprint 1 - Protótipo CRUD de anúncios:                  | Conclusão|
 | ------------------------------------------------------------------- | --------------- |
-| Funcionalidades de CREATE e READ | OKAY |
-| O usuário deve ser capaz de anunciar seu veículo através da plataforma. | OKAY |
-| O anúncio deve estar visível para todos os usuários. | OKAY |
-| O cadastro do anúncio deve estar disponível na base de dados. | OKAY |
-| Desenho da Arquitetura aplicação. | OKAY |
-| Documento de implantação | OKAY |
-| Documento de estratégia de branchs/versionamento.   | OKAY |
-| Documentação das APIs. | OKAY |
-| Relatório com histórico de build automatizado.  | OKAY |
+| Funcionalidades de CREATE e READ | ✔️ |
+| O usuário deve ser capaz de anunciar seu veículo através da plataforma. | ✔️ |
+| O anúncio deve estar visível para todos os usuários. | ✔️ |
+| O cadastro do anúncio deve estar disponível na base de dados. | ✔️ |
+| Desenho da Arquitetura aplicação. | ✔️ |
+| Documento de implantação | ✔️ |
+| Documento de estratégia de branchs/versionamento.   | ✔️ |
+| Documentação das APIs. | ✔️ |
+| Relatório com histórico de build automatizado.  | ✔️ |
 
 
 <hr>
@@ -79,100 +94,72 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
 <hr>
 
 
- | Sprint 4 - Relatórios - Importação de arquivos:                                       | Conclusão |
+| Sprint 4 - Relatórios - Importação de arquivos:                                       | Conclusão |
 | ------------------------------------------------------------------- | --------------- |
 | Geração de relatório com anúncio - PDF com as informações. |  |
 | Atualização da documentação conforme as entregas. |  |
+<br>
 
 
-<hr>
+# 🎯 Entrega - Sprint 1
 </br>
 
-# Entrega - Sprint 1
-
-# 💻 Telas do Sistema
-</br>
-
-## 1. Anúncios
+## 💻 Telas do Sistema
+### 1. Anúncios
 <img src="https://i.imgur.com/p6Ba9ac.jpg" alt="drawing" width="300">
 
-## 2. Menu lateral
+### 2. Menu lateral
 <img src="https://i.imgur.com/IgmAPCT.jpg"
 alt="drawing" width="300">
 
-## 3. Inserir Anúncio
+### 3. Inserir Anúncio
 <img src="https://i.imgur.com/KKAkcNt.jpg"
 alt="drawing" width="300">
 
-## 4. Progresso de upload
+### 4. Progresso de upload
 <img src="https://i.imgur.com/mkpMr09.jpg"
 alt="drawing" width="300">
 
-## 5. Anúncio selecionado
+### 5. Anúncio selecionado
 <img src="https://i.imgur.com/s1iLHZn.jpg"
 alt="drawing" width="300">
 </br>
 </br>
 
-# ⌛ Funcionamento
+## ⌛ Funcionamento
 </br>
 <img src="https://i.imgur.com/M9OCMIN.gif" width="300">
 </br>
-</br>
 
-# 🧰 Tecnologias
-</br>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Expo%20Go-black?style=for-the-badge&logo=expo&logoColor=white"> 
-</br>
-<img src="https://img.shields.io/badge/MongoDB-8bbf3d?style=for-the-badge&logo=MongoDB&logoColor=white  "> <img src="https://img.shields.io/badge/Node.js-8bbf3d?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/swagger-8bbf3d?style=for-the-badge&logo=swagger&logoColor=white"> 
-</br>
-</br>
-
-# 📉 Burndown
+## 📉 Burndown
 </br>
 <img src="https://i.imgur.com/i9cVdMf.png">
 </br>
+
+# 🏭 Releases
 </br>
 
-# ⚙️ Instruções de Instalação
+
+| Sprint | Aplicação | Versão |
+| ------ | --------- | ------ |
+| Sprint 1       | Back-End          | [1.0.0](https://github.com/onlymotors/onlymotors-back/releases/tag/1.0.0)        |
+| Sprint 1   | Front-End Mobile Android      | [1.0.0](https://github.com/onlymotors/onlymotors-front-mobile/releases/tag/1.0.0)    |
+
 </br>
 
+# 📚 Documentações
+</br>
 <ul>
-  <li><b>Frontend</b></li>
-    <ul>
-    <li><b>dependências do frontend</b></li> 
-     Executar o comando:<br/>
-     
-  ```bash
-  $ cd client
-  $ npm install
-  $ npm install --global expo-cli
-  $ expo start
-  ```
-  </br>
-    Alterar o endereço do server conforme o arquivo:</br>
-    <a href="https://github.com/zMadeira/OnlyMotors/blob/develop/client/src/services/variaveis.js">variaveis.js</a>
-  </ul>
+<li>
+<a href="https://github.com/onlymotors/onlymotors-docs/blob/main/docs/Doc%20Visao%20Only%20Motors.pdf">Documento de Visão</a>
+</li>
+<li>
+<a href="https://github.com/onlymotors/onlymotors-docs/blob/main/docs/Plano%20de%20Implanta%C3%A7%C3%A3o.pdf">Plano de Implantação</a>
+</li>
+<li>
+<a href="https://github.com/onlymotors/onlymotors-docs/blob/main/docs/Versionamento%20Sprint_1.pdf">Documento de Versionamento</a>
+</li>
 </ul>
+</br>
 
-<ul>
-  <li><b>Backend</b></li>
-    <ul>
-    <li><b>dependências do backend</b></li> 
-     Executar o comando.<br/>
-     
-  ```bash
-  $ cd server
-  $ npm install
-  $ npm start
-  ```
-</ul
-
-<ul>
-  <li><b>Banco de Dados</b></li>
-    <ul>
-    <li><b>dependências do BD</b></li> 
-     Acessar o link para download:<br/>
-     <a href="https://www.mongodb.com/try/download/community">MongoDB Community</a>
-</ul>
