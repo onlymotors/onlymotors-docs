@@ -28,8 +28,8 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
 | Sprint                                                              | Data de Entrega |
 | ------------------------------------------------------------------- | --------------- |
 | Kick-off do Projeto | 22 de agosto de 2021     |
-| 👉**Sprint 1** | 19 de setembro de 2021     |
-| Sprint 2 | 10 de outubro de 2021     |
+| Sprint 1 | 19 de setembro de 2021     |
+| 👉 **Sprint 2** | 10 de outubro de 2021     |
 | Sprint 3 | 07 de novembro de 2021     |
 | Sprint 4 | 28 de novembro de 2021 |
 | Apresentação Final | 05 de dezembro de 2021 |
@@ -50,7 +50,7 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Expo%20Go-black?style=for-the-badge&logo=expo&logoColor=white"> 
 </br>
-<img src="https://img.shields.io/badge/MongoDB-8bbf3d?style=for-the-badge&logo=MongoDB&logoColor=white  "> <img src="https://img.shields.io/badge/Node.js-8bbf3d?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/swagger-8bbf3d?style=for-the-badge&logo=swagger&logoColor=white"> 
+<img src="https://img.shields.io/badge/MongoDB-8bbf3d?style=for-the-badge&logo=MongoDB&logoColor=white  "> <img src="https://img.shields.io/badge/Node.js-8bbf3d?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/swagger-8bbf3d?style=for-the-badge&logo=swagger&logoColor=white"> <img src="https://img.shields.io/badge/firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white"> 
 </br>
 </br>
 
@@ -73,11 +73,11 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
 
 | Sprint 2 - Protótipo de painel de anúncio - CRUD final de anúncios: | Conclusão |
 | ------------------------------------------------------------------- | --------------- |
-| Tela de cadastro para novos usuários. |  |
-| Possibilidade de exclusão de cadastro. |  |
-| Sistema de Login e Logout para usuários cadastrados.    |  |
-| O usuário pode atualizar ou retirar um anúncio do ar - UPDATE e DELETE.    |  |
-| Painel de gerenciamento de anúncios do usuário com informações particulares    |  |
+| Tela de cadastro para novos usuários. | ✔️ |
+| Possibilidade de exclusão de cadastro. | ✔️ |
+| Sistema de Login e Logout para usuários cadastrados.    | ✔️ |
+| O usuário pode atualizar ou retirar um anúncio do ar - UPDATE e DELETE.    | ✔️ |
+| Painel de gerenciamento de anúncios do usuário com informações particulares    | ✔️ |
 
 
 <hr>
@@ -101,51 +101,39 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
 <br>
 
 
-# 🎯 Entrega - Sprint 1
+# 🎯 Entrega - Sprint 2
 </br>
 
-## 💻 Telas do Sistema
-### 1. Anúncios
-<img src="https://i.imgur.com/p6Ba9ac.jpg" alt="drawing" width="300">
+## ⌛ Aplicação
+| Parte 1                                                              | Parte 2                          |
+| ------------------------------------------------------------------------ | ---------------------------------- |
+| ![](https://i.imgur.com/lAjxZZt.gif) | ![](https://i.imgur.com/uI1HVJt.gif) |
+</br>
 
-### 2. Menu lateral
-<img src="https://i.imgur.com/IgmAPCT.jpg"
-alt="drawing" width="300">
-
-### 3. Inserir Anúncio
-<img src="https://i.imgur.com/KKAkcNt.jpg"
-alt="drawing" width="300">
-
-### 4. Progresso de upload
-<img src="https://i.imgur.com/mkpMr09.jpg"
-alt="drawing" width="300">
-
-### 5. Anúncio selecionado
-<img src="https://i.imgur.com/s1iLHZn.jpg"
-alt="drawing" width="300">
+### Implementação da criptografia
+<img src="https://i.imgur.com/5tkITmt.jpg" width=330>
 </br>
 </br>
 
-## ⌛ Funcionamento
+### Swagger
+<img src="https://i.imgur.com/z26xx0B.png">
+<img src="https://i.imgur.com/nWV07bT.png">
+<img src="https://i.imgur.com/F5x4uFs.png">
+<img src="https://i.imgur.com/5Z1IkxE.png">
+<img src="https://i.imgur.com/l1wq9q9.png">
 </br>
-<img src="https://i.imgur.com/M9OCMIN.gif" width="300">
 </br>
-
 
 ## 📉 Burndown
+<img src="https://i.imgur.com/QmfFCqa.png">
 </br>
-<img src="https://i.imgur.com/i9cVdMf.png">
 </br>
 
 # 🏭 Releases
-</br>
-
-
 | Sprint | Aplicação | Versão |
 | ------ | --------- | ------ |
-| Sprint 1       | Back-End          | [1.0.0](https://github.com/onlymotors/onlymotors-back/releases/tag/1.0.0)        |
-| Sprint 1   | Front-End Mobile Android      | [1.0.0](https://github.com/onlymotors/onlymotors-front-mobile/releases/tag/1.0.0)    |
-
+| Sprint 2       | Back-End          | [2.0.0](https://github.com/onlymotors/onlymotors-back/releases/tag/2.0.0)        |
+| Sprint 2   | Front-End Mobile Android      | [2.0.0](https://github.com/onlymotors/onlymotors-front-mobile/releases/tag/2.0.0)    |
 </br>
 
 # 📚 Documentações
@@ -155,10 +143,10 @@ alt="drawing" width="300">
 <a href="https://github.com/onlymotors/onlymotors-docs/blob/main/docs/Doc%20Visao%20Only%20Motors.pdf">Documento de Visão</a>
 </li>
 <li>
-<a href="https://github.com/onlymotors/onlymotors-docs/blob/main/docs/Plano%20de%20Implanta%C3%A7%C3%A3o.pdf">Plano de Implantação</a>
+<a href="https://github.com/onlymotors/onlymotors-docs/blob/main/docs/Plano%20de%20Implantação.pdf">Plano de Implantação</a>
 </li>
 <li>
-<a href="https://github.com/onlymotors/onlymotors-docs/blob/main/docs/Versionamento%20Sprint_1.pdf">Documento de Versionamento</a>
+<a href="https://github.com/onlymotors/onlymotors-docs/blob/main/docs/Versionamento.pdf">Documento de Versionamento</a>
 </li>
 </ul>
 </br>
