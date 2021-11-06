@@ -29,8 +29,8 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
 | ------------------------------------------------------------------- | --------------- |
 | Kick-off do Projeto | 22 de agosto de 2021     |
 | Sprint 1 | 19 de setembro de 2021     |
-| 👉 **Sprint 2** | 10 de outubro de 2021     |
-| Sprint 3 | 07 de novembro de 2021     |
+| Sprint 2 | 10 de outubro de 2021     |
+| 👉 **Sprint 3** | 07 de novembro de 2021     |
 | Sprint 4 | 28 de novembro de 2021 |
 | Apresentação Final | 05 de dezembro de 2021 |
 | Feira de soluções | 16 de dezembro de 2021 |
@@ -84,11 +84,9 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
 
 | Sprint 3 - Comunicação Cliente e Comprador:                                 | Conclusão |
 | ------------------------------------------------------------------- | --------------- |
-| Cadastro de anúncios a partir de um arquivo CSV. |  |
-| Template de CSV disponibilizado pela aplicação. |  |
-| Chat simples em tempo real entre cliente e comprador. |  |
-| Atualização no painel para apresentar informações de contato |  |
-| Pesquisa de anúncios. |  |
+| Chat simples em tempo real entre cliente e comprador. | ✔️ |
+| Atualização no painel para apresentar informações de contato | ✔️ |
+| Pesquisa de anúncios. | ✔️ |
 
 
 <hr>
@@ -101,39 +99,30 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
 <br>
 
 
-# 🎯 Entrega - Sprint 2
+# 🎯 Entrega - Sprint 3
 </br>
 
-## ⌛ Aplicação
-| Parte 1                                                              | Parte 2                          |
-| ------------------------------------------------------------------------ | ---------------------------------- |
-| ![](https://i.imgur.com/lAjxZZt.gif) | ![](https://i.imgur.com/uI1HVJt.gif) |
-</br>
-
-### Implementação da criptografia
-<img src="https://i.imgur.com/5tkITmt.jpg" width=330>
-</br>
-</br>
-
-### Swagger
-<img src="https://i.imgur.com/z26xx0B.png">
-<img src="https://i.imgur.com/nWV07bT.png">
-<img src="https://i.imgur.com/F5x4uFs.png">
-<img src="https://i.imgur.com/5Z1IkxE.png">
-<img src="https://i.imgur.com/l1wq9q9.png">
-</br>
+## ⌛ Aplicação - Funcionamento do chat & Pesquisa
+<img src="https://i.imgur.com/rv5bvbF.gif">
 </br>
 
 ## 📉 Burndown
-<img src="https://i.imgur.com/QmfFCqa.png">
+<img src="https://i.imgur.com/Y7af9kI.png">
 </br>
 </br>
 
 # 🏭 Releases
 | Sprint | Aplicação | Versão |
 | ------ | --------- | ------ |
-| Sprint 2       | Back-End          | [2.0.0](https://github.com/onlymotors/onlymotors-back/releases/tag/2.0.0)        |
-| Sprint 2   | Front-End Mobile Android      | [2.0.0](https://github.com/onlymotors/onlymotors-front-mobile/releases/tag/2.0.0)    |
+| Sprint 3       | Back-End          | [3.0.0](https://github.com/onlymotors/onlymotors-back/releases/tag/3.0.0)        |
+| Sprint 3   | Front-End Mobile Android      | [3.0.0](https://github.com/onlymotors/onlymotors-front-mobile/releases/tag/3.0.0)    |
+</br>
+
+# 📱 Aplicativo para download
+<ul>
+<a href="https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40chatillon/OnlyMotors-f9fcdc69ec1141acbe8b6fe244c25ef5-signed.apk">Download OnlyMotors</a>
+</ul>
+</br>
 </br>
 
 # 📚 Documentações
