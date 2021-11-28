@@ -100,34 +100,27 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
 
 
 # 🎯 Entrega - Sprint 4
-</br>
-
 ## ⌛ Aplicação - Relatório com anúncios & aplicativo web
 </br>
 
 ### Relátorio no aplicativo mobile
 <img src="https://i.imgur.com/DnJUxXa.png" width=330>
 </br>
-</br>
 
 ### Site web
 <img src="https://i.imgur.com/t2oMhPC.gif">
-</br>
 </br>
 
 ### Telas - Aplicativo Mobile
 <img src="https://i.imgur.com/mXhWH1q.png">
 </br>
-</br>
 
 ### Telas - Site Web
 <img src="https://i.imgur.com/F55omjF.png">
 </br>
-</br>
 
 ## 📉 Burndown
 <img src="https://i.imgur.com/KYPF6m4.png">
-</br>
 </br>
 
 # 📄 Relatórios Heroku & Expo Go
@@ -137,7 +130,6 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
 |<a href="https://github.com/onlymotors/onlymotors-docs/blob/main/docs/EXPO_BUILD_MOBILE.txt">Front-End Mobile</a>|
 |<a href="https://github.com/onlymotors/onlymotors-docs/blob/main/docs/HEROKU_BUILD_WEB.txt">Front-End Web</a>|
 </br>
-
 
 # 🏭 Releases
 | Sprint | Aplicação | Versão |
