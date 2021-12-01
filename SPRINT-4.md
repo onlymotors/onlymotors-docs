@@ -9,7 +9,7 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
 
 **Product Owner/Developer:** Pedro Cruz Oliveira Araújo [LinkedIn](https://www.linkedin.com/in/pedro-cruz77/)
 
-**Developer:** Guilherme Madeira da Silveira [LikedIn](https://www.linkedin.com/in/guilherme-madeira-b317ab17b/)
+**Developer:** Guilherme Madeira da Silveira [LinkedIn](https://www.linkedin.com/in/guilherme-madeira-b317ab17b/)
 
 **Developer:** Henrique Kenji Nawa  [LinkedIn](https://br.linkedin.com/in/henriquenawa)
 
